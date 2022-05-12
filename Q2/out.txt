@@ -1,0 +1,45 @@
+67600 total combinations
+0 remainder
+3380 work per thread
+start = 0 finish = 3379
+start = 3380 finish = 6759
+start = 6760 finish = 10139
+Start: 0 Finish:3379 Thread id :0 
+Start: 3380 Finish:6759 Thread id :1 
+start = 10140 finish = 13519
+Start: 6760 Finish:10139 Thread id :2 
+start = 13520 finish = 16899
+start = 16900 finish = 20279
+start = 20280 finish = 23659
+start = 23660 finish = 27039
+start = 27040 finish = 30419
+start = 30420 finish = 33799
+start = 33800 finish = 37179
+start = 37180 finish = 40559
+start = 40560 finish = 43939
+start = 43940 finish = 47319
+start = 47320 finish = 50699
+start = 50700 finish = 54079
+start = 54080 finish = 57459
+start = 57460 finish = 60839
+start = 60840 finish = 64219
+start = 64220 finish = 67599
+Start: 16900 Finish:20279 Thread id :5 
+Start: 20280 Finish:23659 Thread id :6 
+Start: 23660 Finish:27039 Thread id :7 
+Start: 30420 Finish:33799 Thread id :9 
+Start: 10140 Finish:13519 Thread id :3 
+Start: 37180 Finish:40559 Thread id :11 
+Start: 33800 Finish:37179 Thread id :10 
+Start: 27040 Finish:30419 Thread id :8 
+Start: 40560 Finish:43939 Thread id :12 
+Start: 54080 Finish:57459 Thread id :16 
+Start: 13520 Finish:16899 Thread id :4 
+Start: 57460 Finish:60839 Thread id :17 
+Start: 50700 Finish:54079 Thread id :15 
+Start: 60840 Finish:64219 Thread id :18 
+Start: 43940 Finish:47319 Thread id :13 
+Start: 64220 Finish:67599 Thread id :19 
+Start: 47320 Finish:50699 Thread id :14 
+plain = AB12 found password = AB12 
+The found combination is = AB12
